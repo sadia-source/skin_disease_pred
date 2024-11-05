@@ -31,10 +31,10 @@ Histopathological Features (22 features): These features are based on microscopi
 # Target Variable
 Class (Target Column): The target column is labeled “class” and contains 6 unique values, each representing a distinct skin disease category. This is a multiclass classification problem, as the model needs to predict one of the six classes based on the input features.
 # Key Questions to Address
-How do clinical and histopathological features contribute to the diagnosis of specific skin conditions?
-Which features are most predictive of each skin disease class?
-How accurately can the model classify skin conditions based on the given features?
-What role does age play in distinguishing between different skin conditions?
+1- How do clinical and histopathological features contribute to the diagnosis of specific skin conditions?
+2- Which features are most predictive of each skin disease class?
+3- How accurately can the model classify skin conditions based on the given features?
+4- What role does age play in distinguishing between different skin conditions?
 
 
 
