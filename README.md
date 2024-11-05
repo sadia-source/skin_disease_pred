@@ -1,4 +1,4 @@
- Internship Project Skin Disease Analysis & Prediction
+# Internship Project Skin Disease Analysis & Prediction
 # Context
 Accurate diagnosis of skin diseases is essential for effective treatment and improved patient outcomes. Skin conditions often share similar clinical and histopathological features, making diagnosis challenging and dependent on a detailed assessment of multiple characteristics. By leveraging a combination of clinical and histopathological data, this project aims to develop a predictive model to accurately classify patients into one of six distinct skin disease categories.
 
